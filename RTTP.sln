@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTTP", "RTTP\RTTP.csproj", "{B7887429-1D43-4B7B-B5A6-E16691F8D332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyOneProcessor", "..\PolyOneProcessor-Mono\PolyOneProcessor\PolyOneProcessor.csproj", "{7C2FA753-1549-492A-A937-5C93A1E83729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyOne", "..\PolyOne-Mono\PolyOne\PolyOne.csproj", "{678F0931-F80F-4969-9501-4264DDECBDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Debug|x86.ActiveCfg = Debug|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Debug|x86.Build.0 = Debug|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Release|Any CPU.ActiveCfg = Release|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Release|x86.ActiveCfg = Release|x86
+		{B7887429-1D43-4B7B-B5A6-E16691F8D332}.Release|x86.Build.0 = Release|x86
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7C2FA753-1549-492A-A937-5C93A1E83729}.Release|x86.ActiveCfg = Release|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{678F0931-F80F-4969-9501-4264DDECBDAC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
